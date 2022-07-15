@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.exe
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.deps.json
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.runtimeconfig.json
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.dll
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.pdb
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.dll
+C:\Users\Admin\Desktop\Projekty\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.pdb
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.exe
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.deps.json
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.runtimeconfig.json
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.dll
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\bin\Debug\netcoreapp3.0\zad4.pdb
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.dll
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.pdb
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad4\zad4\obj\Debug\netcoreapp3.0\zad4.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaItemów\AllItemsFactory.cs" Link="AllItemsFactory.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaItemów\Axe.cs" Link="Axe.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaItemów\BasicAxe.cs" Link="BasicAxe.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaItemów\BasicMachete.cs" Link="BasicMachete.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaItemów\Machete.cs" Link="Machete.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaItemów\MagicArmor.cs" Link="MagicArmor.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaPotworów\Bull.cs" Link="Bull.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaPotworów\CattleFactory.cs" Link="CattleFactory.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaPotworów\Centaur.cs" Link="Centaur.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaPotworów\CentaurFactory.cs" Link="CentaurFactory.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaPotworów\Minotaur.cs" Link="Minotaur.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaUmiejętności\ArmorProtection.cs" Link="ArmorProtection.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaUmiejętności\ArmorProtectionDecorator.cs" Link="ArmorProtectionDecorator.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaUmiejętności\AxeThrow.cs" Link="AxeThrow.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaUmiejętności\AxeThrowDecorator.cs" Link="AxeThrowDecorator.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaUmiejętności\MacheteSlash.cs" Link="MacheteSlash.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaUmiejętności\MacheteSlashDecorator.cs" Link="MacheteSlashDecorator.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaUmiejętności\ProtectionFactory.cs" Link="ProtectionFactory.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\NowaGrupaUmiejętności\ScratchFactory.cs" Link="ScratchFactory.cs" />
+  </ItemGroup>
+
+</Project>

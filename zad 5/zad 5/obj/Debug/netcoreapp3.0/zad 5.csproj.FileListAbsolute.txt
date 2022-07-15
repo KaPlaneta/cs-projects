@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.exe
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.deps.json
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.runtimeconfig.json
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.dll
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.pdb
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.dll
+C:\Users\Admin\Desktop\MiTP\cz.B\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.pdb
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.exe
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.deps.json
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.runtimeconfig.json
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.dll
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\bin\Debug\netcoreapp3.0\zad 5.pdb
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.dll
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.pdb
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Studia\C#\zad 5\zad 5\obj\Debug\netcoreapp3.0\zad 5.genruntimeconfig.cache

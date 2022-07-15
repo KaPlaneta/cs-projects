@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\Book.cs" Link="Book.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\BookFactory.cs" Link="BookFactory.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\BuddhaStatue.cs" Link="BuddhaStatue.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\BuddhaStatueFactory.cs" Link="BuddhaStatueFactory.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\Castle.cs" Link="Castle.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\CastleDragonFactory.cs" Link="CastleDragonFactory.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\Dragon.cs" Link="Dragon.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\HappyJackFrost.cs" Link="HappyJackFrost.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\HappyPriest.cs" Link="HappyPriest.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\IJackFrostStrategy.cs" Link="IJackFrostStrategy.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\IPriestStrategy.cs" Link="IPriestStrategy.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\JackFrost.cs" Link="JackFrost.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\JackFrostStrategy.cs" Link="JackFrostStrategy.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\Priest.cs" Link="Priest.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\PriestStrategy.cs" Link="PriestStrategy.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\RockInteraction.cs" Link="RockInteraction.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\RockJackFactory.cs" Link="RockJackFactory.cs" />
+    <Compile Include="C:\Users\Admin\Desktop\Nowy folder\RockPriestFactory.cs" Link="RockPriestFactory.cs" />
+  </ItemGroup>
+
+</Project>

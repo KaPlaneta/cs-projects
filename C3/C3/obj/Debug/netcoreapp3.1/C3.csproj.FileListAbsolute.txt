@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\MiTP\C3\C3\bin\Debug\netcoreapp3.1\C3.exe
+C:\Users\Admin\Desktop\MiTP\C3\C3\bin\Debug\netcoreapp3.1\C3.deps.json
+C:\Users\Admin\Desktop\MiTP\C3\C3\bin\Debug\netcoreapp3.1\C3.runtimeconfig.json
+C:\Users\Admin\Desktop\MiTP\C3\C3\bin\Debug\netcoreapp3.1\C3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MiTP\C3\C3\bin\Debug\netcoreapp3.1\C3.dll
+C:\Users\Admin\Desktop\MiTP\C3\C3\bin\Debug\netcoreapp3.1\C3.pdb
+C:\Users\Admin\Desktop\MiTP\C3\C3\obj\Debug\netcoreapp3.1\C3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MiTP\C3\C3\obj\Debug\netcoreapp3.1\C3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MiTP\C3\C3\obj\Debug\netcoreapp3.1\C3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MiTP\C3\C3\obj\Debug\netcoreapp3.1\C3.dll
+C:\Users\Admin\Desktop\MiTP\C3\C3\obj\Debug\netcoreapp3.1\C3.pdb
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\bin\Debug\netcoreapp3.1\C3.exe
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\bin\Debug\netcoreapp3.1\C3.deps.json
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\bin\Debug\netcoreapp3.1\C3.runtimeconfig.json
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\bin\Debug\netcoreapp3.1\C3.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\bin\Debug\netcoreapp3.1\C3.dll
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\bin\Debug\netcoreapp3.1\C3.pdb
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\obj\Debug\netcoreapp3.1\C3.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\obj\Debug\netcoreapp3.1\C3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\obj\Debug\netcoreapp3.1\C3.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\obj\Debug\netcoreapp3.1\C3.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\obj\Debug\netcoreapp3.1\C3.dll
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\obj\Debug\netcoreapp3.1\C3.pdb
+C:\Users\Admin\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Nowy folder\C3\C3\obj\Debug\netcoreapp3.1\C3.genruntimeconfig.cache

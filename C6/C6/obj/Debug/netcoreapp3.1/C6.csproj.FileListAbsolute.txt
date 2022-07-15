@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\C6\C6\bin\Debug\netcoreapp3.1\C6.exe
+C:\Users\Admin\source\repos\C6\C6\bin\Debug\netcoreapp3.1\C6.deps.json
+C:\Users\Admin\source\repos\C6\C6\bin\Debug\netcoreapp3.1\C6.runtimeconfig.json
+C:\Users\Admin\source\repos\C6\C6\bin\Debug\netcoreapp3.1\C6.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\C6\C6\bin\Debug\netcoreapp3.1\C6.dll
+C:\Users\Admin\source\repos\C6\C6\bin\Debug\netcoreapp3.1\C6.pdb
+C:\Users\Admin\source\repos\C6\C6\obj\Debug\netcoreapp3.1\C6.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\C6\C6\obj\Debug\netcoreapp3.1\C6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C6\C6\obj\Debug\netcoreapp3.1\C6.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\C6\C6\obj\Debug\netcoreapp3.1\C6.AssemblyInfo.cs
+C:\Users\Admin\source\repos\C6\C6\obj\Debug\netcoreapp3.1\C6.dll
+C:\Users\Admin\source\repos\C6\C6\obj\Debug\netcoreapp3.1\C6.pdb
+C:\Users\Admin\source\repos\C6\C6\obj\Debug\netcoreapp3.1\C6.genruntimeconfig.cache
